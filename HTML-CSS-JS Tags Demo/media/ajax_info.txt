@@ -1,0 +1,3 @@
+Ajax is an acronym for Asynchronous JavaScript and XML.
+Ajax is not a Programming language.
+Ajax is a technique for accessing web servers from a web page. 
